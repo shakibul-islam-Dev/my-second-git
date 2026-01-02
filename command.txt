@@ -8,3 +8,6 @@ git branch -M main
 git remote add origin https://github.com/ishakibul704-boop/my-second-git.git
 git push -u origin main
 
+
+problem 3t
+
